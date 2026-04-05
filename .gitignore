@@ -51,3 +51,6 @@ npm-debug.log
 # Build artifacts
 .coverage
 htmlcov/
+
+# Nested directories
+TubeMind/
